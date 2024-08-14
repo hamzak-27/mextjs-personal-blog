@@ -1,4 +1,4 @@
-# mextjs-personal-blog
+# nextjs-personal-blog
 
 # Personal Blog Site - Next.js
 
